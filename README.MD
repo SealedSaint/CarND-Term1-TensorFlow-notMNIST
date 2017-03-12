@@ -1,9 +1,10 @@
 # TensorFlow Neural Network Lab
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 [<img src="http://yaroslavvb.com/upload/notMNIST/nmn.png" alt="notMNIST dataset samples" />](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html)
 
-We've prepared a Jupyter notebook that will guide you through the process of creating a single layer neural network in TensorFlow.
+We've prepared a Jupyter notebook that will guide you through the process of creating a single layer neural network in TensorFlow to classify letters in the notMNIST dataset.
 
 ## Windows Instructions
 #### Install Docker
@@ -49,5 +50,3 @@ Open a browser window and go [here](http://localhost:8888/notebooks/CarND-Tensor
  - Problem 3: Tune the learning rate, number of steps, and batch size for the best accuracy
 
 This is a self-assessed lab.  Compare your answers to the solutions [here](https://github.com/udacity/CarND-TensorFlow-Lab/blob/master/solutions.ipynb).  If you have any difficulty completing the lab, Udacity provides a few services to answer any questions you might have.
-## Help
-Remember that you can get assistance from your mentor, the Forums (click the link on the left side of the classroom), or the [Slack channel](https://carnd-slack.udacity.com). You can also review the concepts from the previous lessons.
